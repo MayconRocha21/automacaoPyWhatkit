@@ -7,7 +7,7 @@ kit.sendwhatmsg("+", "Olá, tudo bem?", 19, 51)
 
 # 2. Enviar mensagem instantânea
 kit.sendwhatmsg_instantly(
-    phone_no="+5562982276751",
+    phone_no="+5511999999999",
     message="Olá, tudo bem?",
     tab_close=True,
     close_time=3,
